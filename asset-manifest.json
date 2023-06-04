@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://airconcept94-design.github.io/csb-jjlfty/static/js/main.6b6417b4.chunk.js",
+    "main.js.map": "https://airconcept94-design.github.io/csb-jjlfty/static/js/main.6b6417b4.chunk.js.map",
+    "runtime-main.js": "https://airconcept94-design.github.io/csb-jjlfty/static/js/runtime-main.daaeea76.js",
+    "runtime-main.js.map": "https://airconcept94-design.github.io/csb-jjlfty/static/js/runtime-main.daaeea76.js.map",
+    "static/js/2.2b04f5e7.chunk.js": "https://airconcept94-design.github.io/csb-jjlfty/static/js/2.2b04f5e7.chunk.js",
+    "static/js/2.2b04f5e7.chunk.js.map": "https://airconcept94-design.github.io/csb-jjlfty/static/js/2.2b04f5e7.chunk.js.map",
+    "index.html": "https://airconcept94-design.github.io/csb-jjlfty/index.html",
+    "precache-manifest.df8986fce77d34f8d8257d9a7ad5dd52.js": "https://airconcept94-design.github.io/csb-jjlfty/precache-manifest.df8986fce77d34f8d8257d9a7ad5dd52.js",
+    "service-worker.js": "https://airconcept94-design.github.io/csb-jjlfty/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daaeea76.js",
+    "static/js/2.2b04f5e7.chunk.js",
+    "static/js/main.6b6417b4.chunk.js"
+  ]
+}
